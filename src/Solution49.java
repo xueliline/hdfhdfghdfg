@@ -27,6 +27,6 @@ public class Solution49 {
     public static void main(String[] args) {
         Solution49 solution49=new Solution49();
         solution49.groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});
-
+        System.out.println();
     }
 }
